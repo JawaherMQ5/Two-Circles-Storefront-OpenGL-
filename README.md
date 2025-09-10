@@ -50,7 +50,7 @@ This visual effect was inspired by real-life shop signs that aim to **attract cu
 ## 💻 Source Code
 The main implementation can be found in the code file:
 
-- [`main.cpp`](main.cpp)
+- [`main.cpp`](https://github.com/JawaherMQ5/Two-Circles-Storefront-OpenGL-/blob/main/group9_4062_CGProject2.cpp)
 
 ---
 
