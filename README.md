@@ -36,7 +36,7 @@ This visual effect was inspired by real-life shop signs that aim to **attract cu
 
 ## 🖼️ Output Screenshots
 
-`![Output](output.png)`
+![Output](https://github.com/JawaherMQ5/Two-Circles-Storefront-OpenGL-/blob/main/output.jpg)
 
 ---
 
