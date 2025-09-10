@@ -30,7 +30,7 @@ This visual effect was inspired by real-life shop signs that aim to **attract cu
 ## 📝 Sketch of the Storefront
 
 
-`![Sketch](sketch.png)`
+`![Sketch](https://github.com/JawaherMQ5/Two-Circles-Storefront-OpenGL-/blob/main/sketch.jpg)`
 
 ---
 
